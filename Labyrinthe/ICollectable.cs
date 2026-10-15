@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Labyrinthe
 {
-    internal interface ICollectable
+    public interface ICollectable
     {
     }
 }
