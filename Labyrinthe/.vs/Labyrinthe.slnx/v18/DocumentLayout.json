@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C3C6D1A-4296-4986-B02D-203E2F47EB5C}|Labyrinthe.csproj|d:\\coursefrei\\c#\\atelier1cs\\labyrinthe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C3C6D1A-4296-4986-B02D-203E2F47EB5C}|Labyrinthe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|d:\\coursefrei\\c#\\atelier1cs\\labyrinthe\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|solutionrelative:key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|d:\\coursefrei\\c#\\atelier1cs\\labyrinthe\\icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|solutionrelative:icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|d:\\coursefrei\\c#\\atelier1cs\\labyrinthe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CD374F-CD55-635E-1A4C-57061E0A59EE}|Labyrinthe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Key.cs",
+              "DocumentMoniker": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\Key.cs",
+              "RelativeDocumentMoniker": "Key.cs",
+              "ToolTip": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\Key.cs",
+              "RelativeToolTip": "Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:49:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICollectable.cs",
+              "DocumentMoniker": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\ICollectable.cs",
+              "RelativeDocumentMoniker": "ICollectable.cs",
+              "ToolTip": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\ICollectable.cs",
+              "RelativeToolTip": "ICollectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:47:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CoursEfrei\\C#\\Atelier1Cs\\Labyrinthe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
