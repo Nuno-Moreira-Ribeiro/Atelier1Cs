@@ -4,16 +4,19 @@
     {
         private bool isTraversable = false;
         public override bool IsTraversable => isTraversable;
-        Key key { get; }
+        public Key Key { get; }
 
         public Door()
         {
-            key = new Key();
+            Key = new Key();
         }
 
-        public bool Open(Key key)
+        public bool OpenClose(Key key)
         {
-            isTraversable = isTraversable || ReferenceEquals(key, this.key);
+            if (ReferenceEquals(key, this.Key))
+            {
+                isTraversable = !isTraversable;
+            }
             return IsTraversable;
         }
 

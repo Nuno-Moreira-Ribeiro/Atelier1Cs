@@ -55,3 +55,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/Labyrinthe/.vs/Labyrinthe/CopilotIndices/18.11.1036.60925/SemanticSymbols.db-shm
+/Labyrinthe/.vs/Labyrinthe/CopilotIndices/18.11.1036.60925/SemanticSymbols.db-wal
